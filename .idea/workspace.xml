@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="528a7538-5489-439f-a735-7f62fb147d96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/face-recognition_acp-vs-cnn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/0/IMG_2543.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/0/IMG_2547.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/0/IMG_2549.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/1/IMG_2410.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/1/IMG_2411.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/1/IMG_2412.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/10/IMG_2503.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/10/IMG_2504.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/10/IMG_2507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/10/IMG_2569.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/10/IMG_2572.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/11/IMG_2510.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/11/IMG_2515.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/11/IMG_2517.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/11/IMG_2519.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/12/IMG_2522.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/12/IMG_2525.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/12/IMG_2527.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/12/IMG_2530.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/13/IMG_2535.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/13/IMG_2537.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/13/IMG_2540.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/2/IMG_2420.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/2/IMG_2421.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/2/IMG_2422.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/2/IMG_2423.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/3/IMG_2426.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/3/IMG_2428.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/3/IMG_2431.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/3/IMG_2432.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/4/IMG_2436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/4/IMG_2439.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/4/IMG_2441.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/5/IMG_2446 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/5/IMG_2448.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/5/IMG_2450.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/5/IMG_2453.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/6/IMG_2457.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/6/IMG_2460.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/6/IMG_2462.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/7/IMG_2465.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/7/IMG_2470.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/7/IMG_2473.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/8/IMG_2477.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/8/IMG_2480.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/8/IMG_2484.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/8/IMG_2486.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/9/IMG_2490.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/9/IMG_2492.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/test/9/IMG_2494.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/0/IMG_2541.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/0/IMG_2542.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/0/IMG_2544.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/0/IMG_2545.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/0/IMG_2546.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/0/IMG_2548.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/0/IMG_2550.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/1/IMG_2404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/1/IMG_2405.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/1/IMG_2406.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/1/IMG_2407.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/1/IMG_2408.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/1/IMG_2409.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2498.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2499.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2501.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2502.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2505.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2506.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2568.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2570.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2571.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/10/IMG_2573.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/11/IMG_2509.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/11/IMG_2511.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/11/IMG_2512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/11/IMG_2513.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/11/IMG_2514.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/11/IMG_2516.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/11/IMG_2518.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/12/IMG_2520.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/12/IMG_2521.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/12/IMG_2523.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/12/IMG_2524.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/12/IMG_2526.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/12/IMG_2528.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/12/IMG_2529.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/13/IMG_2531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/13/IMG_2532.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/13/IMG_2533.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/13/IMG_2534.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/13/IMG_2536.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/13/IMG_2538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/13/IMG_2539.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/2/IMG_2413.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/2/IMG_2414.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/2/IMG_2415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/2/IMG_2416.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/2/IMG_2417.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/2/IMG_2418.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/2/IMG_2419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/3/IMG_2424.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/3/IMG_2425.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/3/IMG_2427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/3/IMG_2429.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/3/IMG_2430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/3/IMG_2433.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/4/IMG_2434.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/4/IMG_2435.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/4/IMG_2437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/4/IMG_2438.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/4/IMG_2440.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/4/IMG_2442.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/5/IMG_2443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/5/IMG_2444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/5/IMG_2445.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/5/IMG_2447.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/5/IMG_2449.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/5/IMG_2451.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/5/IMG_2452.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/5/IMG_2454.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/6/IMG_2455.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/6/IMG_2456.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/6/IMG_2458.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/6/IMG_2459.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/6/IMG_2461.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/7/IMG_2464.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/7/IMG_2466.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/7/IMG_2467.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/7/IMG_2468.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/7/IMG_2469.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/7/IMG_2471.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/7/IMG_2472.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/8/IMG_2474.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/8/IMG_2475.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/8/IMG_2476.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/8/IMG_2478.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/8/IMG_2479.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/8/IMG_2481.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/8/IMG_2482.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/8/IMG_2483.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/8/IMG_2485.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/9/IMG_2487.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/9/IMG_2488.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/9/IMG_2489.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/9/IMG_2491.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/9/IMG_2493.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/9/IMG_2495.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/9/IMG_2496.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_png_64x64/train/9/IMG_2497.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ncIEzF9uIq2TdN1qgCfvB3tIaT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/eveil/DataspellProjects/face-recognition_acp-vs-cnn",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eveil\DataspellProjects\face-recognition_acp-vs-cnn" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-80a6976e5986-7ba1f540c4e9-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-242.22855.78" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
