@@ -1,1 +1,1 @@
-Code du projet aussi disponible à l'adresse : https://github.com/eveillesimon/face-recognition-acp-vs-cnn/blob/master/notebook.ipynb
+This projects compares 2 face classification methods : CNN (convolutional neural network) and a KNN (k-nearest neighbourghs) combined with a PCA (principal component analysis).
