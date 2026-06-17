@@ -1,3 +1,3 @@
 This projects compares 2 face classification methods : CNN (convolutional neural network) and a KNN (k-nearest neighbourghs) combined with a PCA (principal component analysis).
 
-Have a look at the notebook (notebook.ipynb) to see the result or to the article-like report to see my conclusions.
+Have a look at the notebook (notebook.ipynb) to see the result or to the article-like report (report.pdf) to see my conclusions.
